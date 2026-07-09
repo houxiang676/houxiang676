@@ -1,260 +1,134 @@
-<div style="background: linear-gradient(135deg, #FFB6D9 0%, #FFC0E0 25%, #FFD4E5 50%, #FFDDEC 75%, #FFF0F7 100%); padding: 40px; border-radius: 20px; min-height: 100vh;">
-
-<div align="center">
-
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║                                                               ║
-║           🌸✨ Welcome to houxiang676's Dream ✨🌸            ║
-║                                                               ║
-║              在粉色的世界里，优雅地编程与创作               ║
+║                  ✨ Welcome to My Digital Garden ✨           ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
-<br/>
-
-<div style="background: rgba(255,255,255,0.7); padding: 30px; border-radius: 15px; border: 3px solid #FF69B4; margin: 20px 0;">
-
 <div align="center">
 
-# 🎀 houxiang676 🎀
+### 🌸 houxiang676 🌸
 
-### ✨ Developer | Creator | Dreamer ✨
+> *"在代码的世界里，诗意地绽放"* ✨
 
-```
-💖 Always coding with love and elegance 💖
-🌙 Creating magic with Python & passion 🌙  
-🎨 Turning ideas into beautiful reality 🎨
-```
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+space;Coding+with+elegance;Creating+beautiful+magic)
 
 </div>
 
 ---
-
-<div style="background: rgba(255,255,255,0.7); padding: 30px; border-radius: 15px; border: 2px dashed #FF85B8; margin: 20px 0;">
-
-<div align="center">
 
 ## 💎 About Me
 
-</div>
+```
+身份：Developer & Creator
+心情：Always in pastel dreams 🌙
+专注：MCP Tools & Python Magic
+风格：Modern × Minimalist × Elegant
+```
 
-```
-╭─ 📝 Personal Info
-│  ├─ 🎯 Identity: Full-Stack Developer & Creator
-│  ├─ 💝 Personality: Elegant, Creative, Passionate
-│  ├─ 🌈 Style: Modern × Aesthetic × Dreamy
-│  └─ 🎪 Status: Always creating something beautiful
-│
-├─ 🎨 Aesthetic Preferences
-│  ├─ 🌸 Color: Pastel Pink & Soft Purple
-│  ├─ 💫 Mood: Dreamy & Elegant
-│  ├─ 🎭 Vibe: Feminine & Professional
-│  └─ ✨ Goal: Code with love and artistry
-│
-└─ 🚀 What I Do
-   ├─ Build powerful MCP tools
-   ├─ Create elegant solutions
-   ├─ Share knowledge with passion
-   └─ Inspire through creativity
-```
+<div align="center">
+
+| 🎵 | 🎨 | 💻 |
+|:---:|:---:|:---:|
+| **Creative** | **Aesthetic** | **Technical** |
+| 热爱创意 | 追求精致 | 擅长编程 |
 
 </div>
 
 ---
 
-<div style="background: rgba(255,255,255,0.7); padding: 30px; border-radius: 15px; border: 2px solid #FF69B4; margin: 20px 0;">
+## 🚀 Featured Projects
 
 <div align="center">
 
-## 🌟 Featured Projects
-
-</div>
-
-<div style="background: linear-gradient(135deg, #FFB6D9 0%, #FFC0E0 100%); padding: 25px; border-radius: 15px; margin: 15px 0; border-left: 5px solid #FF1493;">
-
-<div align="center">
-
-### ✨ wxapkg-mcp ✨
-
-**🎁 一个优雅而强大的微信小程序包解密工具**
+### ✨ wxapkg-mcp
+**一个优雅的微信小程序包解密工具**
 
 ```
-┌─────────────────────────────────────┐
-│  📦 WeChat Package Inspector         │
-│  🔐 Secure & Beautiful Decryption    │
-│  ⚡ Powered by Python Magic          │
-│  🎨 With Elegant Design              │
-└─────────────────────────────────────┘
+📦 WeChat Package Inspector & Decryptor
+🔐 Secure & Elegant
+⚡ Powered by Python
 ```
 
-**✨ Features:**
-- 🔍 Inspect local .wxapkg files
-- 🗝️ Decrypt with elegance
-- 📂 Extract & analyze packages
-- 🛠️ MCP Server integration
+[![GitHub](https://img.shields.io/badge/GitHub-houxiang676%2Fwxapkg--mcp-FF69B4?style=flat-square&logo=github)](https://github.com/houxiang676/wxapkg-mcp)
 
-[![GitHub](https://img.shields.io/badge/💖_GitHub_-wxapkg--mcp-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houxiang676/wxapkg-mcp)
-
-</div>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> 🌸 More magical projects coming soon... 🌸
-
-</div>
+更多精彩项目即将上线... 🎨✨
 
 </div>
 
 ---
 
-<div style="background: rgba(255,255,255,0.7); padding: 30px; border-radius: 15px; border: 2px dashed #FF85B8; margin: 20px 0;">
+## 🌈 Tech Stack
 
 <div align="center">
 
-## 🌈 Tech Stack & Skills
-
-</div>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; margin: 20px 0;">
-
-<div style="background: linear-gradient(135deg, #FFD4E5 0%, #FFC0E0 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #FF69B4;">
-
-**💜 Languages**
 ```
-🐍 Python (Expert)
-📜 JavaScript (Fluent)
-🔧 Shell Script
+💜 Languages
+┌─ Python 🐍
+├─ JavaScript 
+└─ Shell Script
+
+🎀 Tools & Frameworks
+┌─ MCP (Model Context Protocol)
+├─ FastAPI
+└─ Docker
+
+✨ Other Skills
+┌─ Git & GitHub
+├─ CLI Tools
+└─ System Design
 ```
-
-</div>
-
-<div style="background: linear-gradient(135deg, #FFC0E0 0%, #FFB6D9 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #FF1493;">
-
-**🎀 Tools & Framework**
-```
-🔌 MCP Protocol
-⚡ FastAPI
-🐳 Docker
-🔧 Git & GitHub
-```
-
-</div>
-
-<div style="background: linear-gradient(135deg, #FFB6D9 0%, #FFADD0 100%); padding: 15px; border-radius: 10px; border-left: 4px solid #FF85B8;">
-
-**✨ Specialties**
-```
-🛠️ CLI Tools
-📊 System Design
-🎨 API Design
-💎 Code Beauty
-```
-
-</div>
-
-</div>
 
 </div>
 
 ---
-
-<div style="background: rgba(255,255,255,0.7); padding: 30px; border-radius: 15px; border: 2px solid #FF85B8; margin: 20px 0;">
-
-<div align="center">
 
 ## 💌 Connect With Me
 
-</div>
+<div align="center">
 
-<div align="center" style="margin: 20px 0;">
-
-[![Douyin](https://img.shields.io/badge/🎵_Douyin_-@houxiang676-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://v.douyin.com/WNHUEnZc3nU/)
-
-[![Email](https://img.shields.io/badge/💌_Email_-7@1.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7@1.com)
-
-[![GitHub](https://img.shields.io/badge/💖_GitHub_-houxiang676-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houxiang676)
-
-</div>
+[![Douyin](https://img.shields.io/badge/抖音-@houxiang676-FF0050?style=flat-square&logo=tiktok)](https://v.douyin.com/WNHUEnZc3nU/)
+[![Email](https://img.shields.io/badge/Email-7@1.com-FF69B4?style=flat-square&logo=gmail)](mailto:7@1.com)
+[![GitHub](https://img.shields.io/badge/GitHub-houxiang676-181717?style=flat-square&logo=github)](https://github.com/houxiang676)
 
 </div>
 
 ---
 
-<div style="background: rgba(255,255,255,0.7); padding: 30px; border-radius: 15px; border: 3px dashed #FF69B4; margin: 20px 0;">
+## 📊 GitHub Stats
 
 <div align="center">
 
-## 📊 GitHub Stats & Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=houxiang676&theme=rose_pine&show_icons=true&hide_border=true&bg_color=ffe6f0&title_color=ff69b4&icon_color=ff69b4)
 
-</div>
-
-<div align="center" style="margin: 20px 0;">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=houxiang676&theme=rose_pine&show_icons=true&hide_border=true&bg_color=FFD4E5&title_color=FF69B4&icon_color=FF69B4&text_color=FF1493)
-
-</div>
-
-<div align="center" style="margin: 20px 0;">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=houxiang676&theme=rose_pine&layout=compact&hide_border=true&bg_color=FFD4E5&title_color=FF69B4&text_color=FF1493)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=houxiang676&theme=rose_pine&layout=compact&hide_border=true&bg_color=ffe6f0&title_color=ff69b4)
 
 </div>
 
 ---
 
-<div style="background: linear-gradient(135deg, #FF69B4 0%, #FF85B8 50%, #FFB6D9 100%); padding: 30px; border-radius: 15px; margin: 20px 0; border: 3px solid #FF1493;">
+## 🌸 Random Quote
 
 <div align="center">
 
-## 🌸 Words From My Heart
+> *"The best way to predict the future is to invent it."*  
+> — Alan Kay
 
-```
-✨ 用代码编织梦想的纱线
-🎨 用优雅诠释技术的美学
-💖 在粉色的世界里自由翱翔
-🌙 让每一行代码都闪闪发光
-```
-
-> *"Code is poetry, and I write it with love"* 💕
-
-> *"在最好的年纪，做最美的事"* ✨
-
-</div>
+**✨ 用代码创造梦想，用优雅诠释美学 ✨**
 
 </div>
 
 ---
 
-<div style="background: rgba(255,255,255,0.7); padding: 20px; border-radius: 15px; text-align: center; margin: 20px 0; border-top: 5px solid #FF69B4;">
-
 <div align="center">
 
-### 🎀 Made with endless love & infinite creativity 🎀
+### 🎀 Made with love & creativity
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=houxiang676.houxiang676&left_color=FF69B4&right_color=FFD4E5)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=houxiang676.houxiang676&left_color=ff69b4&right_color=ffc0e0)
 
 ```
-🌙✨🌸🎀💖✨🌸🎀💖✨🌸🎀💖✨🌙
-
-     Sweet Dreams | Beautiful Code | Endless Creation
-     
-🌙✨🌸🎀💖✨🌸🎀💖✨🌸🎀💖✨🌙
+🌙✨🌸 Sweet Dreams & Clean Code 🌸✨🌙
 ```
-
-</div>
-
-</div>
 
 </div>
