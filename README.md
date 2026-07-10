@@ -14,8 +14,8 @@
 > *"在代码的世界里，诗意地绽放"* ✨
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Raleway&size=22&duration=3000&pause=1000&color=FFB6D9&center=true&vCenter=true&width=600&lines=✨+Welcome+to+my+sweet+space;🎀+Coding+with+elegance;💕+Creating+beautiful+things">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Welcome+to+my+sweet+space;🎀+Coding+with+elegance;💕+Creating+beautiful+things" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Raleway&size=22&duration=3000&pause=1000&color=FFB6D9&center=true&vCenter=true&width=600&lines=✨+Welcome+to+my+sweet+space;🎀+Coding+with+elegance;🌸+Creating+beauty+in+code">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Welcome+to+my+sweet+space;🎀+Coding+with+elegance;🌸+Creating+beauty+in+code" />
 </picture>
 
 </div>
@@ -110,9 +110,9 @@
 
 ## 🌈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=houxiang676&theme=rose_pine&show_icons=true&hide_border=false&border_color=FFB6D9&bg_color=FFF0F6&title_color=FF69B4&icon_color=FF69B4&text_color=D4799C&ring_color=FFB6D9" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=houxiang676&theme=rose_pine&show_icons=true&hide_border=false&border_color=FFB6D9&bg_color=FFF0F6&title_color=FF69B4&icon_color=FF69B4" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=houxiang676&theme=rose_pine&layout=compact&hide_border=false&border_color=FFB6D9&bg_color=FFF0F6&title_color=FF69B4&text_color=D4799C" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=houxiang676&theme=rose_pine&layout=compact&hide_border=false&border_color=FFB6D9&bg_color=FFF0F6&title_color=FF69B4&text_color=FF69B4" alt="Top Languages" />
 
 </div>
 
@@ -143,7 +143,7 @@
 
 [![Blog](https://img.shields.io/badge/🌸_Blog-FF69B4?style=for-the-badge)](https://houxiang676.github.io/)
 [![Douyin](https://img.shields.io/badge/抖音-@houxiang676-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://v.douyin.com/WNHUEnZc3nU/)
-[![Email](https://img.shields.io/badge/📧_Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:7@1.com)
+[![Email](https://img.shields.io/badge/📧_Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@houxiang.com)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-houxiang676-181717?style=for-the-badge&logo=github)](https://github.com/houxiang676)
 
 </div>
@@ -188,18 +188,3 @@
 <sub>🎀 Last updated: 2024 | Built with 💕 and creativity | 🌸 [Blog](https://houxiang676.github.io/) 🌸</sub>
 
 </div>
-
----
-
-## 🎨 奶娘粉色系推荐
-
-如果你想要真正的粉色背景，可以尝试这些方案：
-
-### 💕 颜色参考
-
-- **主粉色**: `#FF69B4` 🎀 (热粉)
-- **浅粉色**: `#FFB6D9` 💕 (软粉)
-- **极浅粉**: `#FFF0F6` ✨ (淡粉 - 当前用的)
-- **奶米色**: `#FFF5E6` 🍚 (奶米)
-- **雾霾粉**: `#F8BFD9` 🌸 (柔和粉)
-- **樱花粉**: `#FFB7C5` 🌺 (温柔粉)
